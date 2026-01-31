@@ -1,62 +1,24 @@
-========================================================================
-    WIN32 APPLICATION : cpp-mfc_transparent-txt Project Overview
-========================================================================
+README for the AUDIO_SPI applications
+=====================================
 
-AppWizard has created this cpp-mfc_transparent-txt application for you.
+AUDIO_SPI is a set of open source audio applications targeted for the 
+Windows Operating System. This application is part of the AUDIO_SPI
+software collection.
 
-This file contains a summary of what you will find in each of the files that
-make up your cpp-mfc_transparent-txt application.
+AUDIO_SPI's applications are based on popular open source libraries
+and should therefore be fairly easy to port to various platforms.
 
+AUDIO_SPI  project was started in Montreal in 2010 by Stephane Poirier
+with the objective of experimenting with audio to understand the process of
+creating music with software applications.
 
-cpp-mfc_transparent-txt.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+Some AUDIO_SPI applications are used by Carl Poirier who is a Montreal
+music composer prototyping an audio operating system called XAOS. The
+packaging of the AUDIO_SPI applications sometimes reflects the XAOS
+requirements.
 
-cpp-mfc_transparent-txt.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+Links:
+======
 
-cpp-mfc_transparent-txt.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-AppWizard has created the following resources:
-
-cpp-mfc_transparent-txt.rc
-    This is a listing of all of the Microsoft Windows resources that the
-    program uses.  It includes the icons, bitmaps, and cursors that are stored
-    in the RES subdirectory.  This file can be directly edited in Microsoft
-    Visual C++.
-
-Resource.h
-    This is the standard header file, which defines new resource IDs.
-    Microsoft Visual C++ reads and updates this file.
-
-cpp-mfc_transparent-txt.ico
-    This is an icon file, which is used as the application's icon (32x32).
-    This icon is included by the main resource file cpp-mfc_transparent-txt.rc.
-
-small.ico
-    This is an icon file, which contains a smaller version (16x16)
-    of the application's icon. This icon is included by the main resource
-    file cpp-mfc_transparent-txt.rc.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named cpp-mfc_transparent-txt.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+The AUDIO_SPI web site  . . . . . https://audiospi.com
+Support . . . . . . . . . . https://groups.google.com/forum/#!forum/audio_spi-users
