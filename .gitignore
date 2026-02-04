@@ -25,6 +25,7 @@ ipch/
 *.opensdf
 *.cachefile
 
+*.suo
 .vs/
 Debug/
 ipch/
